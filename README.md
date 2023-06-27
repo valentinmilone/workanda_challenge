@@ -14,4 +14,7 @@ Este proyecto consiste en CRUD de registro con validaciones y un login en PHP y 
 2. Configura tu entorno de servidor web para que apunte al directorio del proyecto.
 3. Abre el archivo `user.sql` y ejecuta la query en SQL para la creacion de la base de datos (futura migracion).
 
+## Vistas
+http://localhost/workanda_challenge/app/Views/home.php
+
 ### Gracias por la oportunidad :)
