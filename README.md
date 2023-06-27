@@ -12,6 +12,6 @@ Este proyecto consiste en CRUD de registro con validaciones y un login en PHP y 
 
 1. Clona el repositorio o descarga los archivos en tu directorio de proyectos.
 2. Configura tu entorno de servidor web para que apunte al directorio del proyecto.
-3. Abre el archivo `db.php` y ejecuta la query en SQL para la creacion de la base de datos.
+3. Abre el archivo `user.sql` y ejecuta la query en SQL para la creacion de la base de datos (futura migracion).
 
 ### Gracias por la oportunidad :)
