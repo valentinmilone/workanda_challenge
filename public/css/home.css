@@ -1,0 +1,74 @@
+.container {
+    margin-top: 50px;
+}
+
+.user-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.user-item {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.user-actions {
+    margin-left: auto;
+}
+
+.edit-link,
+.delete-link {
+    padding: 5px 10px;
+    font-size: 12px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+.edit-link {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.delete-link {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.btn-create-user,
+.btn-logout,
+.btn-login {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-right: 10px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.btn-create-user {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btn-logout {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+.btn-login {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.success-message {
+    color: green;
+}

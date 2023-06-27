@@ -1,0 +1,55 @@
+.container {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.login-container {
+  margin-top: 100px;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.login-title {
+  text-align: center;
+
+}
+
+.login-form {
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.label {
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif; 
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background-color: #0069d9;
+}
+
+.mt-3 {
+  margin-top: 20px;
+}

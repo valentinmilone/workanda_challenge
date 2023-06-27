@@ -1,0 +1,54 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#error-container {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.register-container {
+  max-width: 400px;
+  width: 100%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+}
+
+.register-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.error-message {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.register-form {
+  margin-top: 20px;
+}
+
+.register-form .form-label {
+  font-weight: bold;
+}
+
+.register-form .form-control {
+  margin-bottom: 10px;
+}
+
+.register-form .btn-primary {
+  width: 100%;
+}
+
+.mt-3 {
+  text-align: center;
+}
+
+.mt-3 a {
+  text-decoration: none;
+}
